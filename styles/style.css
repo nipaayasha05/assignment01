@@ -29,11 +29,128 @@
     justify-content: space-around   ;
     align-items: center;
     gap: 50px;
+    margin-bottom: 80px;
     
 
 }
 .banner-tittle{
     font-weight: bold;
     font-size: 56px;
+}
+.paragraph{
+    font-weight: regular;
+    font-size: 16px;
+
+}
+.the-vision{
+    margin:  0 auto;
+    width: 1600px;
+}
+
+.box1{
+    width: 425px;
+    height: 325px;
+    background-color: rgba(84, 144, 245, 0.2);
+    padding: 35px;
+    border-radius: 15px;
+     
+    
+}
+.box2{
+    width: 425px;
+    height: 325px;
+    background-color:  rgba(198, 228, 214, 1);
+    padding: 35px;
+    border-radius: 15px;
+    
+}
+.box3{
+    width: 425px;
+    height: 325px;
+    background-color:  rgba(247, 235, 207, 1);
+    padding: 35px ;
+    border-radius: 15px;
+     
+    
+}
+.btn1{
+    background-color: rgba(84, 144, 245, 1);
+    color: white;
+    border-radius: 8px;
+    border: none;
+    padding: 11px 20px;
+    margin-top: 24px;
+    cursor: pointer;
+}
+.btn2{
+    background-color: rgba(9, 161, 92, 1) ;
+    color: white;
+    border-radius: 8px;
+    border: none;
+    padding: 11px 20px;
+    margin-top: 24px;
+    cursor: pointer;
+}
+ 
+.btn3{
+    background-color: rgba(255, 194, 57, 1) ;
+    color: white;
+    border-radius: 8px;
+    border: none;
+    padding: 11px 20px;
+    margin-top: 24px;
+    cursor: pointer;
+}
+
+.vision{
+    display: flex;
+    gap: 30px;
+    justify-content: space-between;
+    margin-bottom: 32px;
+    width: 1600px;
+     
+    
+}
+.box-tittle{
+    margin-top: 25px;
+}
+.btn1:hover{
+    background-color:rgba(61, 112, 201);   
+}
+
+.btn2:hover{
+    background-color: rgb(19, 117, 73);   
+}
+ 
+.btn3:hover{
+    background-color:  rgb(163, 126, 38);   
+}
+
+.adviser-tittle{
+    font-weight: semibold;
+    font-size: 20px;
+}
+.adviser-description{
+    font-weight: regular;
+    font-size: 16px;
+    color: rgba(14, 14, 14, 0.6);
+}
+.chief-adviser{
+    width: 1580px;
+    height: 250px;
+    background-color: white;
+    margin: 0 auto;
+    background-image: url(../assets/quote-bg.png);
+    background-repeat:no-repeat ;
+    padding:48px 24px ;
+    margin-bottom: 80px;
+    border-radius: 16px;
+    background-position:24px 30px ;
+    
+    
+}
+
+body{
+    background-color:rgba(241, 241, 243, 1);
 }
  
