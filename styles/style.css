@@ -154,3 +154,124 @@ body{
     background-color:rgba(241, 241, 243, 1);
 }
  
+.recent-news{
+    width: 1600px;
+    margin: 0 auto;
+    margin-bottom: 32px;
+}
+.img-world{
+    border-radius:24px ;
+    /* width: 400px;
+    height: 300px; */
+}
+
+.news1{
+    background-color: white;
+    display: flex;
+     gap: 32px;
+    padding: 48px;
+    border-radius: 24px;
+    margin-bottom: 24px;
+     
+}
+.satellite .adviser-description{
+margin-bottom: 46px;
+}
+.satellite-tittle{
+    margin-top: 0px;
+} 
+.news2{
+    background-color: white;
+    display: flex;
+     gap: 32px;
+    padding: 48px;
+    border-radius: 24px;
+    margin-bottom: 24px;}     
+
+.news3{
+        background-color: white;
+        display: flex;
+         gap: 32px;
+        padding: 48px;
+        border-radius: 24px;
+        margin-bottom: 80px;
+         
+    }     
+.donate{
+    width: 1600px;
+    margin: 0 auto;
+    text-align: center;
+
+} 
+.donate-box{
+    width: 1100px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-evenly;}
+     
+.taka-btn1{
+    width: 240px;
+    height: 130px;
+    background-color: white;
+    border-radius: 16px;
+    color:rgba(14, 14, 14, 0.8) ;
+    font-weight: bold;
+    font-size: 40px;
+    border: none;
+    cursor: pointer;
+}
+.taka-btn1:hover{
+    background-color: blanchedalmond;
+} 
+.taka-btn2{
+    width: 240px;
+    height: 130px;
+    background-color:  rgba(198, 228, 214, 1);
+    border-radius: 16px;
+    color:rgba(14, 14, 14, 0.8) ;
+    font-weight: bold;
+    font-size: 40px;
+    border: none;
+    cursor: pointer;
+}
+.taka-btn2:hover{
+    background-color:  rgb(142, 229, 189) ;}
+.taka-btn3{
+    width: 240px;
+    height: 130px;
+    background-color: white;
+    border-radius: 16px;
+    color:rgba(14, 14, 14, 0.8) ;
+    font-weight: bold;
+    font-size: 40px;
+    border: none;
+    cursor: pointer;
+}
+.taka-btn3:hover{
+    background-color: rgb(247, 197, 213);}
+.taka-btn4{
+    width: 240px;
+    height: 130px;
+    background-color: white;
+    border-radius: 16px;
+    color:rgba(14, 14, 14, 0.8) ;
+    font-weight: bold;
+    font-size: 40px;
+    border: none;
+    cursor: pointer;
+}
+.taka-btn4:hover{
+    background-color:  rgb(165, 208, 243);}
+.donate-box{
+    margin-bottom: 32px;
+}   
+.text{
+    width: 1000px;
+    height: 64px;
+    border: none;
+    font-weight: regular;
+    font-size: 20px;
+    color:rgba(14, 14, 14, 0.3);
+    text-align: center;
+    margin-bottom: 32px;
+}       
